@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Amit\u0027s Zoya",
+  "description": "A sassy, witty, and intelligent Indian female AI voice assistant, personalized for Amit.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
